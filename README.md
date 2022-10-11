@@ -2,6 +2,6 @@
 ```
 Tugas 4 sains Data
 ```
-![image](https://user-images.githubusercontent.com/105371183/195099414-143bb8dd-0aed-4144-a44a-7a898452a535.png)
+![image](https://user-images.githubusercontent.com/105371183/195217165-ce2df38e-543d-427b-aedc-cb3b71c0f908.png)
 
-![image](https://user-images.githubusercontent.com/105371183/195099532-59925d7a-e7c0-47ef-9d24-c38d9c83eb7f.png)
+![image](https://user-images.githubusercontent.com/105371183/195217213-76d78a4d-3ecb-45c0-9464-49570d459971.png)
